@@ -1,0 +1,111 @@
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+}
+.navigation {
+   background-image: url("images/istockphoto-1181589191-612x612.jpg");
+   height: 400px;
+   color: bisque;
+}
+.logo2 {
+   float: left;
+}
+
+ ul {
+    width: 50%;
+    margin-left: auto;
+}
+.heroImg {
+    padding: 25px;
+}
+.backgroundimg {
+    max-height: 100%;
+    max-width: 100%;
+}
+.content {
+    width: 500px;
+    margin: 0 auto;
+}
+footer {
+    display: inline-block;
+    background-color: bisque;
+    height: auto;
+    width: 100%;
+    margin-top: 50px;
+}
+ul {
+    margin-right: 200px;
+}
+p {
+ font-size: x-large;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.projects {
+    justify-content: center;
+}
+body {
+    background-color: aliceblue;
+}
+li {
+    display: inline-block;
+    font-size: x-large;
+    padding: 30px;
+    text-align: right;
+}
+section {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+.mySkills {
+    display: block;
+}
+button {
+    size: 30px;
+    margin-left: 170px;
+}
+.workGrid {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%; 
+}
+.work {
+    margin-left: 475px;
+    color: darkgray;
+    background-color: beige;
+    border-radius: 6px;
+    size: 20px;
+}
+.column1 {
+    height: auto;
+    width: 100%;
+    margin-left: 280px;
+}
+.column2 {
+    margin-left: 390px;
+    width: 100%;
+    height: auto;
+}
+.column3 {
+    margin-left: 200px;
+    width: 100%;
+    height: auto;
+}
+a {
+    justify-content: right;
+}
+body {
+    background-image: url("images/pexels-henry-&-co-1939485.jpg");
+}
+.column4 {
+    width: 100%;
+    height: auto;
+    display: inline-block;
+}
+.column5 {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+}
